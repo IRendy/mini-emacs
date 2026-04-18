@@ -1,4 +1,4 @@
-;;; init-email.el --- tools                          -*- lexical-binding: t; -*-
+;;; init-email.el --- email                          -*- lexical-binding: t; -*-
 ;;; Commentary:
 ;;; Code:
 
