@@ -67,7 +67,8 @@ Can be used in `rime-disable-predicates' and `rime-inline-predicates'."
 
 (require 'pyim)
 ;; (pyim-default-scheme 'quanpin)
-(pyim-default-scheme 'xiaohe-shuangpin)
+(pyim-default-scheme 'ziranma-shangpin)
+(setq pyim-page-length 9)
 (setq pyim-cloudim 'baidu)
 (setq pyim-page-tooltip 'posframe)
 (setq-default pyim-english-input-switch-functions

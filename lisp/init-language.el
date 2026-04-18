@@ -6,7 +6,7 @@
 (require 'init-pyim)
 (require 'init-rime)
 
-(setq default-input-method "rime")
+(setq default-input-method "pyim")
 
 (provide 'init-language)
 ;;; init-language.el ends here

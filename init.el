@@ -33,4 +33,6 @@
 
 (require 'init-program)
 
+(require 'init-email)
+
 ;;; init.el ends here.
