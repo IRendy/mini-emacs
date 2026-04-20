@@ -21,3 +21,5 @@ popweb
 tree-sitter/*
 librime
 /server/
+.authinfo
+config/yasnippet/snippets/mail-mode/*

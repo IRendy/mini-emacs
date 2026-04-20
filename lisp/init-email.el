@@ -12,8 +12,10 @@
 ;; (customize-variable 'auth-sources) ;; optional, do it once
 
 (setq message-send-mail-function 'smtpmail-send-it)
-(setq user-mail-address "irendy@qq.com")
-(setq user-full-name "IRendy")
+
+;; Already set in init-startup.el
+;; (setq user-mail-address "irendy@qq.com")
+;; (setq user-full-name "IRendy")
 
 (setq smtpmail-smtp-user "irendy@qq.com"
       smtpmail-smtp-server "smtp.qq.com"
