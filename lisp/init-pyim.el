@@ -85,7 +85,7 @@
 
                 ;; pyim-probe-program-mode
                 pyim-probe-org-structure-template))
-(setq-default pyim-punctuation-translate-p '(no))
+;; (setq-default pyim-punctuation-translate-p '(no))
 ;; (require 'pyim-basedict)
 ;; (pyim-basedict-enable)
 (require 'pyim-tsinghua-dict)
